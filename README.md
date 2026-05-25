@@ -43,13 +43,6 @@ Le script fonctionne en 3 étapes clés séquentielles :
 
 ---
 
-## 🎮 Commandes en Mode Caméra / Navigation
-Une fois le graphe généré à l'écran, vous pouvez naviguer dans la constellation 3D :
-* **Z, Q, S, D** (ou touches fléchées) : Déplacement de la caméra dans l'espace.
-* **Clic Droit Enfoncé + Souris** : Rotation de la caméra pour inspecter les clusters sous tous les angles.
-
----
-
 ## 📊 Endpoints API Utilisés
 
 Le client interagit de manière autonome avec les routes suivantes :
